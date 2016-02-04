@@ -1,0 +1,38 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Proj1/Makefile
+#	new file:   Proj1/README
+#	new file:   Proj1/graph.cpp
+#	new file:   Proj1/graph.h
+#	new file:   Proj1/graph.o
+#	new file:   Proj1/klp
+#	new file:   Proj1/main.cpp
+#	new file:   Proj1/main.o
+#	new file:   Proj1/net
+#	new file:   Proj1/partition.cpp
+#	new file:   Proj1/partition.h
+#	new file:   Proj1/partition.o
+#	new file:   Proj2/Makefile
+#	new file:   Proj2/README.txt
+#	new file:   Proj2/README.txt~
+#	new file:   Proj2/graph.cpp
+#	new file:   Proj2/graph.h
+#	new file:   Proj2/graph.o
+#	new file:   Proj2/main.cpp
+#	new file:   Proj2/main.o
+#	new file:   Proj2/module
+#	new file:   Proj2/net
+#	new file:   Proj2/pio
+#	new file:   Proj2/result
+#	new file:   Proj2/results
+#	new file:   Proj2/sa.cpp
+#	new file:   Proj2/sa.h
+#	new file:   Proj2/sa.o
+#	new file:   Proj2/sap
+#
+
